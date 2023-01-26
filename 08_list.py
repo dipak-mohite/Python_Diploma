@@ -1,0 +1,9 @@
+list1=[14,15,20.25,"Raju",1.2E-2,0.142]
+list2=[10,20]
+print(list1)
+print(list1[3])
+print(list1[1:3])
+print(list1[2:])
+print(list1*3)
+print(list1+list2)
+print(list1[-1])
